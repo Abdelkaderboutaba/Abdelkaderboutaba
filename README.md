@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Abdelkader
 
 🎓 Master's student in Computer Vision 
+
 💻 Passionate about AI, and WEB development 
+
 📍 Based in Algeria
 
 ---
